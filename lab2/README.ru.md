@@ -10,7 +10,7 @@
 This sentence uses `$` delimiters to show math inline:  $\sqrt{\sqrt{3x-1}}+(1+x)^2$
 
 ```math
-\sqrt{3} + pow(2,5)
+\sqrt{3}^5 + 2^5
 ```
 
 ---
